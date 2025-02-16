@@ -93,3 +93,11 @@ If no fire is detected:
 Buzzer and water pump remain OFF.
 
 Data is still sent to ThingSpeak.
+
+Author
+
+Gowtham M G
+
+License
+
+This project is open-source and available for modification and distribution under the MIT License.
